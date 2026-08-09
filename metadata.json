@@ -1,0 +1,6 @@
+{
+  "name": "Image Category & Custom Dataset Recognizer",
+  "description": "An AI image recognition platform for identifying categories, computing confidence scores, detecting visual features, and building custom image datasets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
